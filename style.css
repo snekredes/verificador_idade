@@ -3,8 +3,6 @@
 body{
     
     background-image: linear-gradient(to right, rgb(76, 76, 240) , rgba(211, 59, 211, 0.575) , rgba(195, 224, 28, 0.712));
-  
-     
 }
 header{
     color: white;
@@ -44,7 +42,13 @@ footer{
 footer > a{
     text-decoration: none; 
 }
+footer  p{
+     font-size: 1.1em;   
+     font-weight: 900;
+   
+}
 footer > a:hover{ 
-    color: white;
+    color: rgb(255, 255, 255);
+     
 
 }
