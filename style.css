@@ -45,10 +45,11 @@ footer > a{
 footer  p{
      font-size: 1.1em;   
      font-weight: 900;
+      
    
 }
 footer > a:hover{ 
     color: rgb(255, 255, 255);
-     
+    transition: color .8s, border .3s; 
 
 }
